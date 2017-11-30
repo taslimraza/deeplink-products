@@ -9,11 +9,6 @@
 "name":"Sandwich",
 "image":"http://lorempixel.com/output/food-q-c-400-200-3.jpg",
 "price":"Rs 100"
-},{
-"id":3,
-"name":"Pizza",
-"image":"http://lorempixel.com/output/food-q-c-400-200-3.jpg",
-"price":"Rs 250"
 }],
 "profile": {
 "name":"xyz"
