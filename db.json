@@ -1,4 +1,9 @@
-[{
+{
+"products": [{
 "id":1,
 "name":"Biryani"
-}]
+}],
+"profile": {
+"name":"xyz"
+}
+}
